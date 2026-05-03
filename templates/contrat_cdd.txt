@@ -1,0 +1,116 @@
+CONTRAT DE TRAVAIL
+A DUREE DETERMINEE (CDD)
+
+Entre les soussignés,
+
+LA SOCIETE :           {{NOM_SOCIETE}}
+SIEGE SOCIAL :         {{SIEGE_SOCIAL}}
+SIRET :                {{SIRET}}
+URSSAF :               {{URSSAF}}
+
+Agissant par l'intermédiaire de son représentant légal, {{REPRESENTANT_LEGAL}}, {{TITRE_REPRESENTANT}}.
+
+Et
+
+LE SALARIE :                    {{CIVILITE}} {{NOM_SALARIE}}
+DEMEURANT AU :                  {{ADRESSE_SALARIE}}
+DATE/LIEU DE NAISSANCE :        {{DATE_NAISSANCE}} EN {{LIEU_NAISSANCE}}
+NATIONALITE :                   {{NATIONALITE}}
+N° TITRE DE SEJOUR :            {{NUM_TITRE_SEJOUR}}
+DATE DE VALIDITE :              {{DATE_VALIDITE_SEJOUR}}
+N° SS :                         {{NUM_SS}}
+
+
+ARTICLE 1 : CONVENTION COLLECTIVE APPLICABLE
+
+La convention collective applicable à l'entreprise est la convention collective nationale des commerces de détail non alimentaires.
+
+Pour toutes dispositions relatives à la relation de travail non prévues dans le présent contrat, les parties se référeront à cette convention.
+
+
+ARTICLE 2 : NATURE ET DATE D'EFFET DU CONTRAT
+
+Le présent contrat est conclu à durée déterminée pour le motif suivant : {{MOTIF_CDD}}.
+
+Il prendra effet à compter du {{DATE_DEBUT}} et se terminera le {{DATE_FIN}}.
+
+
+ARTICLE 3 : PERIODE D'ESSAI
+
+Le présent engagement est conclu sans aucune période d'essai.
+
+
+ARTICLE 4 : EMPLOI ET QUALIFICATION
+
+{{CIVILITE}} {{NOM_SALARIE}} occupera le poste en qualité de {{POSTE}}, de niveau {{NIVEAU}}.
+
+
+ARTICLE 5 : REMUNERATION
+
+{{CIVILITE}} {{NOM_SALARIE}} percevra une rémunération mensuelle brute égale au SMIC en vigueur.{{ANCIENNETE}}
+
+
+ARTICLE 6 : DUREE DU TRAVAIL
+
+{{CIVILITE}} {{NOM_SALARIE}} effectuera {{HEURES_SEMAINE}} heures hebdomadaires selon les horaires en vigueur de la société.{{AVIS_MEDICAL}}
+
+Il pourra par ailleurs lui être demandé, si nécessaire, d'effectuer des heures supplémentaires.
+
+
+ARTICLE 7 : LIEU DE TRAVAIL
+
+{{CIVILITE}} {{NOM_SALARIE}} exercera ses fonctions dans la boutique de la société au {{LIEU_TRAVAIL}}.
+
+En cas de nécessité, l'entreprise pourra modifier l'affectation de {{CIVILITE}} {{NOM_SALARIE}}. Le nouveau lieu de travail devra lui être communiqué en respectant un délai de 30 jours.
+
+
+ARTICLE 8 : CONGES PAYES
+
+{{CIVILITE}} {{NOM_SALARIE}} bénéficiera des congés payés au prorata de la durée du contrat. La date de ces congés payés est déterminée par accord entre la direction et {{CIVILITE}} {{NOM_SALARIE}} compte tenu des nécessités du service.
+
+
+ARTICLE 9 : RETRAITE COMPLEMENTAIRE, FRAIS DE SANTE ET PREVOYANCE
+
+{{CIVILITE}} {{NOM_SALARIE}} sera affilié à la caisse de retraite complémentaire dont relève l'entreprise : {{CAISSE_RETRAITE}}.
+
+{{CIVILITE}} {{NOM_SALARIE}} sera affilié aux frais de santé dont relève l'entreprise : {{MUTUELLE}}.
+
+
+ARTICLE 10 : OBLIGATIONS PROFESSIONNELLES
+
+{{CIVILITE}} {{NOM_SALARIE}} sera tenu d'observer les dispositions réglementant les conditions de travail applicables des salariés de l'entreprise, ainsi que les règles générales concernant la discipline et la sécurité du travail.
+
+{{CIVILITE}} {{NOM_SALARIE}} s'engage par ailleurs :
+
+- A se conformer aux directives et instructions émanant de la direction ou de son représentant
+- A observer une discrétion professionnelle absolue pour tout ce qui concerne les faits ou informations dont il aura connaissance dans l'exercice ou à l'occasion de ses fonctions
+- A ne pas exercer d'activité professionnelle complémentaire de quelque nature que ce soit sans autorisation expresse de l'entreprise
+- A informer immédiatement la société en cas d'absence quel que soit le motif et à produire dans les 48 heures les justificatifs appropriés
+- A faire connaitre sans délai tout changement de situation le concernant (domicile, situation familiale, enfants à charge, etc.)
+- A respecter les obligations en lien avec la surveillance médicale des salariés
+
+{{CIVILITE}} {{NOM_SALARIE}} déclare être libre de tout engagement.
+
+
+ARTICLE 11 : RENOUVELLEMENT ET FIN DE CONTRAT
+
+Le présent contrat à durée déterminée prendra fin à l'échéance du terme fixé, soit le {{DATE_FIN}}, sans qu'il soit nécessaire de procéder à un préavis. A l'issue du contrat, {{CIVILITE}} {{NOM_SALARIE}} percevra une indemnité de fin de contrat égale à 10% de la rémunération totale brute versée, sauf si un contrat à durée indéterminée lui est proposé.
+
+
+ARTICLE 12 : INFORMATION LIEE AUX DECLARATIONS SOCIALES NOMINATIVES
+
+Le recrutement de {{CIVILITE}} {{NOM_SALARIE}} a fait l'objet d'une déclaration préalable à l'embauche auprès de l'Urssaf d'Ile de France en date du {{DATE_DPAE}}.
+
+En outre, chaque mois la société transmet, via le dispositif de la déclaration sociale nominative (DSN) des données utilisées pour le calcul de la paye ainsi qu'à l'occasion de tout évènement devant être déclaré par ce biais (arrêt de travail, fin de contrat, etc.) toutes les informations nécessaires à l'exercice des droits de {{CIVILITE}} {{NOM_SALARIE}}.
+
+En vertu de la loi n° 78-17 du 6 janvier 1978, {{CIVILITE}} {{NOM_SALARIE}} est informé que les données nominatives sont enregistrées sur support informatique et communiquées aux organismes sociaux de la société.
+
+
+Fait le {{DATE_SIGNATURE}}.
+A {{VILLE_SIGNATURE}}
+
+
+LE SALARIE                                                  L'EMPLOYEUR
+
+
+Signature précédée de la mention « lu et approuvé »
