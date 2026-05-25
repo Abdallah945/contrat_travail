@@ -37,7 +37,7 @@ Il prendra effet à compter du {{DATE_DEBUT}} et se terminera le {{DATE_FIN}}.
 
 ARTICLE 3 : PERIODE D'ESSAI
 
-Le présent engagement est conclu sans aucune période d'essai.
+{{ARTICLE_3_CONTENU}}
 
 
 ARTICLE 4 : EMPLOI ET QUALIFICATION
@@ -52,7 +52,7 @@ ARTICLE 5 : REMUNERATION
 
 ARTICLE 6 : DUREE DU TRAVAIL
 
-{{CIVILITE}} {{NOM_SALARIE}} effectuera {{HEURES_SEMAINE}} heures hebdomadaires selon les horaires en vigueur de la société.{{AVIS_MEDICAL}}
+{{CIVILITE}} {{NOM_SALARIE}} effectuera {{HEURES_SEMAINE}} heures hebdomadaires {{HORAIRE_INTRO}}.{{AVIS_MEDICAL}}{{PLANNING_HORAIRE}}
 
 Il pourra par ailleurs lui être demandé, si nécessaire, d'effectuer des heures supplémentaires.
 
@@ -67,6 +67,8 @@ En cas de nécessité, l'entreprise pourra modifier l'affectation de {{CIVILITE}
 ARTICLE 8 : CONGES PAYES
 
 {{CIVILITE}} {{NOM_SALARIE}} bénéficiera des congés payés au prorata de la durée du contrat. La date de ces congés payés est déterminée par accord entre la direction et {{CIVILITE}} {{NOM_SALARIE}} compte tenu des nécessités du service.
+
+Il est précisé que si le contrat est transformé par la suite en CDI, {{CIVILITE}} {{NOM_SALARIE}} ne partira jamais en congé ni au mois de juillet ni au mois d'août. Cette condition est déterminante pour la conclusion et le maintien du contrat.
 
 
 ARTICLE 9 : RETRAITE COMPLEMENTAIRE, FRAIS DE SANTE ET PREVOYANCE

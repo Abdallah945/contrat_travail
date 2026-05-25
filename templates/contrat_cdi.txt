@@ -35,7 +35,7 @@ Le présent contrat est conclu à durée indéterminée. Il prendra effet à com
 
 ARTICLE 3 : PERIODE D'ESSAI
 
-Le présent engagement est conclu sans aucune période d'essai.
+{{ARTICLE_3_CONTENU}}
 
 
 ARTICLE 4 : EMPLOI ET QUALIFICATION
@@ -50,7 +50,7 @@ ARTICLE 5 : REMUNERATION
 
 ARTICLE 6 : DUREE DU TRAVAIL
 
-{{CIVILITE}} {{NOM_SALARIE}} effectuera {{HEURES_SEMAINE}} heures hebdomadaires selon les horaires en vigueur de la société.{{AVIS_MEDICAL}}
+{{CIVILITE}} {{NOM_SALARIE}} effectuera {{HEURES_SEMAINE}} heures hebdomadaires {{HORAIRE_INTRO}}.{{AVIS_MEDICAL}}{{PLANNING_HORAIRE}}
 
 Il pourra par ailleurs lui être demandé, si nécessaire, d'effectuer des heures supplémentaires.
 
